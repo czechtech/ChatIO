@@ -11,4 +11,5 @@ Requires:
  * Python_QRCode
 
 Video Demonstration:
+
 [![Video Demonstration](https://img.youtube.com/vi/r4hoGDSYSS4/hqdefault.jpg)](https://youtu.be/r4hoGDSYSS4)
