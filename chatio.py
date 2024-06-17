@@ -64,7 +64,7 @@ def redirected_print(*objs, sep='', end='\n', file=sys.stdout, flush=False):
   sleep(0.5)
   return
 
-def redirected_input(prompt):
+def redirected_input(prompt=None):
   if prompt != None:
     print(prompt)
   while len(input_buffer) < 1:
